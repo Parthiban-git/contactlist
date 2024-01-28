@@ -1,5 +1,6 @@
 profile={
     name:parthi,
     role:"devops",
-    infuture:"Devops architect"
+    infuture:"Devops architect",
+    manager:"sathiya"
 }
